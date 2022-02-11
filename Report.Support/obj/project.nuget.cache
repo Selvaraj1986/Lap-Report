@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BqNvSqcvA7McgOq+LvnhoYZRZ+xC65q5Y3kpJ+W6LV6QXyvIQGmRfjeMMZyTpDLAriThR+GuRMRxO59BJPycPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Support\\Report.Support.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a851276\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\a851276\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\a851276\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

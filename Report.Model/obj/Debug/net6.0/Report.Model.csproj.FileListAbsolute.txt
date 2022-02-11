@@ -1,0 +1,11 @@
+C:\Users\a851276\source\repos\HCALabReport\Report.Model\bin\Debug\net6.0\Report.Model.deps.json
+C:\Users\a851276\source\repos\HCALabReport\Report.Model\bin\Debug\net6.0\Report.Model.dll
+C:\Users\a851276\source\repos\HCALabReport\Report.Model\bin\Debug\net6.0\ref\Report.Model.dll
+C:\Users\a851276\source\repos\HCALabReport\Report.Model\bin\Debug\net6.0\Report.Model.pdb
+C:\Users\a851276\source\repos\HCALabReport\Report.Model\obj\Debug\net6.0\Report.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a851276\source\repos\HCALabReport\Report.Model\obj\Debug\net6.0\Report.Model.AssemblyInfoInputs.cache
+C:\Users\a851276\source\repos\HCALabReport\Report.Model\obj\Debug\net6.0\Report.Model.AssemblyInfo.cs
+C:\Users\a851276\source\repos\HCALabReport\Report.Model\obj\Debug\net6.0\Report.Model.csproj.CoreCompileInputs.cache
+C:\Users\a851276\source\repos\HCALabReport\Report.Model\obj\Debug\net6.0\Report.Model.dll
+C:\Users\a851276\source\repos\HCALabReport\Report.Model\obj\Debug\net6.0\ref\Report.Model.dll
+C:\Users\a851276\source\repos\HCALabReport\Report.Model\obj\Debug\net6.0\Report.Model.pdb
