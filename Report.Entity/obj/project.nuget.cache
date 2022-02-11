@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wbEkJ7HFag9EJ4u1y/cPw2CI7o1Azrf+YF3YPLRQ08gCA6MKiKouMDmr9EOhXENwDSNp+JlBuTyClZSA+V7BKA==",
+  "dgSpecHash": "rFc0dbNWEi46eXCp2WJN6L6k9KTsZ/nwmd0xuNt4+Hpg2cPv+pDJ97G5HpuMSnVblzWPwd0tUbMGPyRyqER/fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Entity\\Report.Entity.csproj",
+  "projectFilePath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Entity\\Report.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\a851276\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\a851276\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",

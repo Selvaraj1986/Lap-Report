@@ -11404,11 +11404,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\HCALabReport\\HCALabReport.csproj",
+      "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\HCALabReport\\HCALabReport.csproj",
       "projectName": "HCALabReport",
-      "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\HCALabReport\\HCALabReport.csproj",
+      "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\HCALabReport\\HCALabReport.csproj",
       "packagesPath": "C:\\Users\\a851276\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\HCALabReport\\obj\\",
+      "outputPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\HCALabReport\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a851276\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11425,11 +11425,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Entity\\Report.Entity.csproj": {
-              "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Entity\\Report.Entity.csproj"
+            "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Entity\\Report.Entity.csproj": {
+              "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Entity\\Report.Entity.csproj"
             },
-            "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Repository\\Report.Repository.csproj": {
-              "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Repository\\Report.Repository.csproj"
+            "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Repository\\Report.Repository.csproj": {
+              "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Repository\\Report.Repository.csproj"
             }
           }
         }

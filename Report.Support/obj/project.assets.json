@@ -125,11 +125,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Support\\Report.Support.csproj",
+      "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Support\\Report.Support.csproj",
       "projectName": "Report.Support",
-      "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Support\\Report.Support.csproj",
+      "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Support\\Report.Support.csproj",
       "packagesPath": "C:\\Users\\a851276\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Support\\obj\\",
+      "outputPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Support\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a851276\\AppData\\Roaming\\NuGet\\NuGet.Config",

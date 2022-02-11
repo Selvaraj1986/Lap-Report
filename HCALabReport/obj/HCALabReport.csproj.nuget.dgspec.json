@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a851276\\source\\repos\\HCALabReport\\HCALabReport\\HCALabReport.csproj": {}
+    "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\HCALabReport\\HCALabReport.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a851276\\source\\repos\\HCALabReport\\HCALabReport\\HCALabReport.csproj": {
+    "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\HCALabReport\\HCALabReport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\HCALabReport\\HCALabReport.csproj",
+        "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\HCALabReport\\HCALabReport.csproj",
         "projectName": "HCALabReport",
-        "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\HCALabReport\\HCALabReport.csproj",
+        "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\HCALabReport\\HCALabReport.csproj",
         "packagesPath": "C:\\Users\\a851276\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\HCALabReport\\obj\\",
+        "outputPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\HCALabReport\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a851276\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Entity\\Report.Entity.csproj": {
-                "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Entity\\Report.Entity.csproj"
+              "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Entity\\Report.Entity.csproj": {
+                "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Entity\\Report.Entity.csproj"
               },
-              "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Repository\\Report.Repository.csproj": {
-                "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Repository\\Report.Repository.csproj"
+              "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Repository\\Report.Repository.csproj": {
+                "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Repository\\Report.Repository.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Entity\\Report.Entity.csproj": {
+    "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Entity\\Report.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Entity\\Report.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Entity\\Report.Entity.csproj",
         "projectName": "Report.Entity",
-        "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Entity\\Report.Entity.csproj",
+        "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Entity\\Report.Entity.csproj",
         "packagesPath": "C:\\Users\\a851276\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Entity\\obj\\",
+        "outputPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a851276\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Model\\Report.Model.csproj": {
+    "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Model\\Report.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Model\\Report.Model.csproj",
+        "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Model\\Report.Model.csproj",
         "projectName": "Report.Model",
-        "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Model\\Report.Model.csproj",
+        "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Model\\Report.Model.csproj",
         "packagesPath": "C:\\Users\\a851276\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Model\\obj\\",
+        "outputPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a851276\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,14 +210,14 @@
         }
       }
     },
-    "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Repository\\Report.Repository.csproj": {
+    "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Repository\\Report.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Repository\\Report.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Repository\\Report.Repository.csproj",
         "projectName": "Report.Repository",
-        "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Repository\\Report.Repository.csproj",
+        "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Repository\\Report.Repository.csproj",
         "packagesPath": "C:\\Users\\a851276\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Repository\\obj\\",
+        "outputPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a851276\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -234,14 +234,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Entity\\Report.Entity.csproj": {
-                "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Entity\\Report.Entity.csproj"
+              "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Entity\\Report.Entity.csproj": {
+                "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Entity\\Report.Entity.csproj"
               },
-              "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Model\\Report.Model.csproj": {
-                "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Model\\Report.Model.csproj"
+              "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Model\\Report.Model.csproj": {
+                "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Model\\Report.Model.csproj"
               },
-              "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Support\\Report.Support.csproj": {
-                "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Support\\Report.Support.csproj"
+              "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Support\\Report.Support.csproj": {
+                "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Support\\Report.Support.csproj"
               }
             }
           }
@@ -284,14 +284,14 @@
         }
       }
     },
-    "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Support\\Report.Support.csproj": {
+    "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Support\\Report.Support.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Support\\Report.Support.csproj",
+        "projectUniqueName": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Support\\Report.Support.csproj",
         "projectName": "Report.Support",
-        "projectPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Support\\Report.Support.csproj",
+        "projectPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Support\\Report.Support.csproj",
         "packagesPath": "C:\\Users\\a851276\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a851276\\source\\repos\\HCALabReport\\Report.Support\\obj\\",
+        "outputPath": "C:\\Users\\a851276\\source\\repos\\Assesment\\HCALabReport\\Report.Support\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a851276\\AppData\\Roaming\\NuGet\\NuGet.Config",
